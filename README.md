@@ -1,5 +1,5 @@
 # Control-Structures-in-Python
-TASK1 DETAILS:-
+# TASK1 DETAILS:-
 This is a simple Python program that checks whether the number entered by the user is even or odd.
 
 1. Input from the User:
